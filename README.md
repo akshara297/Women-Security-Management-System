@@ -41,6 +41,7 @@ Save your staged changes locally with a clear message describing what you did:
 Step E: Push your code to GitHub
 Upload your saved changes so the rest of the team can access them:
 
+
    git push origin main
 
    
@@ -48,7 +49,5 @@ Upload your saved changes so the rest of the team can access them:
 Communicate: Let the group know in your chat what section or file you are currently working on (e.g., "Hey, I'm working on styles.css right now").
 
 Pull Often: Run git pull frequently, especially right before you start working and right before you try to push your code.
-
-Keep Commits Small: Push your code often in small, working chunks rather than saving a massive block of changes all at once.
 
 Keep Commits Small: Push your code often in small, working chunks rather than saving a massive block of changes all at once.
