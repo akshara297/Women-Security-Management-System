@@ -13,10 +13,11 @@ If you haven't cloned the repository to your local machine yet:
    ```bash
    git clone <repository-link>
 ## 2.Move into the project directory:
-```bash
-cd mini-project
+  ```bash
+  cd mini-project
 
-💻 2. Daily Coding Workflow
+
+## 3. Daily Coding Workflow
 To prevent losing work or creating messy conflicts, always follow this exact sequence every time you sit down to code:
 
 Step A: Pull the latest updates FIRST
@@ -42,17 +43,12 @@ Upload your saved changes so the rest of the team can access them:
 ```bash
 git push origin main
 
-⚠️ 3. Best Practices to Avoid Merge Conflicts
+##4.Best Practices to Avoid Merge Conflicts
 Communicate: Let the group know in your chat what section or file you are currently working on (e.g., "Hey, I'm working on styles.css right now").
 
 Pull Often: Run git pull frequently, especially right before you start working and right before you try to push your code.
 
 Keep Commits Small: Push your code often in small, working chunks rather than saving a massive block of changes all at once.
-
-
-
-
-
 
 
 
