@@ -14,7 +14,8 @@ If you haven't cloned the repository to your local machine yet:
    git clone <repository-link>
 ## 2.Move into the project directory:
 Move into the project directory:
-    ```bash
+
+    ```bash 
     cd mini-project
 ## 3.Daily Coding Workflow
 To prevent losing work or creating messy conflicts, always follow this exact sequence every time you sit down to code:
